@@ -1,7 +1,15 @@
-#response
+# Response
 
 description: get status code from another web
 
-install requirements: requests
+## Installation requirements: 
+''' requests library
+--- pip -r install requirements.txt
+--- or pip install requests
+--- need pip version 19.2 [check: pip --version]
 
-future: read web and include values
+## Future: 
+--- read web and include values
+
+## Licence
+[MIT](https://choosealicense.com/licenses/mit/)
