@@ -1,6 +1,6 @@
 # Response
 
-description: get status code from another web
+description: get value and key from another web :DOM:
 
 ## Installation requirements: 
 ```python
